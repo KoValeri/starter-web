@@ -10,3 +10,7 @@ Sample website with plenty of files for demos
 
 Doing something
 Lalalalala!
+
+### Copyright
+
+2014 Git.Training.
